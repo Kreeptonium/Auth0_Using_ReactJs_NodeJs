@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@auth0/auth0-react": "^1.12.0",
+    "axios": "^1.1.3",
+    "react-scripts": "^5.0.1"
+  },
+  "name": "auth0_using_reactjs_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kreeptonium/Auth0_Using_ReactJs_NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kreeptonium/Auth0_Using_ReactJs_NodeJs/issues"
+  },
+  "homepage": "https://github.com/Kreeptonium/Auth0_Using_ReactJs_NodeJs#readme",
+  "description": ""
+}
